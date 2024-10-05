@@ -1,6 +1,6 @@
 import { Tab as MUITab } from "@mui/material";
 import { styles } from "./styles";
-import { ElementType, JSXElementConstructor, ReactNode } from "react";
+import { ElementType, JSXElementConstructor } from "react";
 
 type TabProps = {
   label: string;
