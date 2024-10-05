@@ -1,6 +1,6 @@
 import { SxProps, tabClasses } from "@mui/material";
 import { colors } from "../../../assets/consts/colors";
-import { fonts, typography, weights } from "../../../assets/consts/typography";
+import { typography, weights } from "../../../assets/consts/typography";
 
 export const styles: SxProps = {
   ...typography.tab,
